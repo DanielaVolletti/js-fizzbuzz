@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Baloo 2', cursive;
+}
+
+#container {
+  padding: 20px;
+  background-color: lightblue;
+}
+
+#container h1, p, ul li{
+  text-align: center;
+}
+
+#container h1 {
+  font-size: 50px;
+}
+
+#container p {
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+ul li {
+  list-style-type: none;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
